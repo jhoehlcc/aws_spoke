@@ -1,4 +1,5 @@
 # terraform-aviatrix-aws-spoke
+#Angepasst durch Jörg auf neues Modul
 
 # This module will be deprecated in favor of the new multi-cloud spoke module
 The Multi-Cloud can be found here: https://registry.terraform.io/modules/terraform-aviatrix-modules/mc-spoke/aviatrix/latest
